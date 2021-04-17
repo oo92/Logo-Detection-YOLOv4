@@ -8,5 +8,4 @@ This is the mAP chart:
 
 
 Here is a demo of how the model performed:
-[![Demo CountPages alpha](https://gifs.com/gif/logo-detection-demo-6XLZ6Q)](https://www.youtube.com/watch?v=gb--jhxKYxM)
-
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=gb--jhxKYxM)
